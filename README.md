@@ -39,7 +39,7 @@ QIFE-Image-Classification/
 │   ├── reproducibility.md
 │   └── paper-traceability.md
 ├── results/
-│   └── README.md
+│   └── Results.pdf
 ├── configs/
 │   └── mnist_experiment_config.json
 ├── requirements.txt
