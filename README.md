@@ -1,7 +1,12 @@
 # QIFE Image Classification
 
+QIFE
 [![Open QIFE in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanbabenk/QIFE-Image-Classification/blob/main/notebooks/01_QIFE_MNIST.ipynb)
+
+QFE
 [![Open QFE Baseline in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanbabenk/QIFE-Image-Classification/blob/main/notebooks/02_QFE_Baseline_MNIST.ipynb)
+
+CNN
 [![Open CNN Baseline in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanbabenk/QIFE-Image-Classification/blob/main/notebooks/03_CNN_Baseline_MNIST.ipynb)
 
 This repository provides Jupyter Notebook implementations for **Quantum Inspired Feature Extraction (QIFE)** and related baselines for image classification experiments.
