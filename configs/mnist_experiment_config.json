@@ -1,0 +1,26 @@
+{
+  "dataset": "MNIST",
+  "num_classes": 10,
+  "image_size": [
+    22,
+    22
+  ],
+  "patch_size": 3,
+  "patch_stride": 2,
+  "patches_per_image": 100,
+  "values_per_patch": 9,
+  "train_per_class": 1200,
+  "test_per_class": 200,
+  "batch_size": 64,
+  "optimizer": "Adam",
+  "learning_rate": 0.0005,
+  "notebooks": {
+    "QIFE": "notebooks/01_QIFE_MNIST.ipynb",
+    "QFE": "notebooks/02_QFE_Baseline_MNIST.ipynb",
+    "CNN": "notebooks/03_CNN_Baseline_MNIST.ipynb"
+  },
+  "notes": [
+    "Verify max_iterations in each notebook against the final manuscript before release.",
+    "Current uploaded notebooks target MNIST. Add Fashion-MNIST notebooks/configuration if the manuscript reports FMNIST experiments."
+  ]
+}
