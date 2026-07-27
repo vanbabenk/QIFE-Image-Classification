@@ -9,10 +9,6 @@ This document maps manuscript components to repository files.
 | Classical CNN baseline | `notebooks/03_CNN_Baseline_MNIST.ipynb` | Implements the classical CNN baseline. |
 | Method flowchart | `docs/figures/qife_flowchart.png` | Visual description of the QIFE workflow. |
 | Experimental protocol | `docs/reproducibility.md` | Documents dataset, preprocessing, and execution environment. |
-| Reported results | `results/` | Store raw per-run metrics and summary statistics here. |
+| Reported results | `results/` | Metrics and summary statistics here. |
 
-## Items to verify before final release
 
-- The manuscript mentions MNIST and Fashion-MNIST, while the uploaded notebooks currently target MNIST.
-- QFE and CNN notebooks use `max_iterations=1000`; the uploaded QIFE notebook should be checked because its current call uses `max_iterations=100`.
-- If the final manuscript reports five independent runs, add the seed loop or provide the raw per-seed result files.
