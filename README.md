@@ -117,7 +117,6 @@ The notebooks report:
 - Confusion matrix
 - Training/runtime information
 
-The `results/` directory is prepared for storing reproducibility outputs such as per-run CSV files and summary tables.
 
 ## Important reproducibility note
 
@@ -125,15 +124,6 @@ The current notebooks use a quantum simulator through PennyLane. They do not rep
 
 Runtime and numerical values may vary slightly across Colab sessions because GPU availability and package versions can vary.
 
-## Before manuscript submission
-
-Before using this repository as a publication artifact, verify that:
-
-- All notebook configurations match the manuscript.
-- All notebooks can run from a clean Colab runtime.
-- The reported metrics are consistent with the final manuscript tables.
-- The final release version is created on GitHub.
-- The final GitHub release is archived on Zenodo if a software DOI is required.
 
 ## Citation
 
