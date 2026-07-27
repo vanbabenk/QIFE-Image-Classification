@@ -44,13 +44,3 @@ Recommended validation procedure:
 
 The QIFE and QFE notebooks use PennyLane with a simulator backend. The results should not be interpreted as direct execution on a real quantum processing unit.
 
-## Publication checklist
-
-Before citing this repository in the manuscript:
-
-- Verify that the QIFE, QFE, and CNN notebooks use exactly the same experimental settings.
-- Verify whether `max_iterations` matches the manuscript protocol in every notebook.
-- Confirm that all notebooks run on a clean Colab runtime.
-- Upload raw and summary metric CSV files into `results/`.
-- Create a GitHub release, e.g. `v1.0.0`.
-- Archive the release on Zenodo if a DOI is required.
