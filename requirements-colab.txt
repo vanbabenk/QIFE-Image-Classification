@@ -1,0 +1,6 @@
+pennylane
+scikit-image
+scikit-learn
+pandas
+matplotlib
+tqdm

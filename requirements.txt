@@ -1,0 +1,10 @@
+torch
+torchvision
+pennylane
+scikit-image
+scikit-learn
+numpy
+pandas
+matplotlib
+tqdm
+jupyterlab
