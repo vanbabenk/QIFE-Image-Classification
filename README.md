@@ -21,7 +21,7 @@ The repository includes three experiment notebooks:
 
 | Method | Notebook | Description |
 |---|---|---|
-| QIFE | `notebooks/01_QIFE_MNIST.ipynb` | Proposed quantum-inspired feature extraction using dual-operator encoding and Pauli-string ZZ measurements. |
+| QIFE | `notebooks/01_QIFE_MNIST.ipynb` | Proposed quantum-inspired feature extraction using dual-operator encoding and Pauli string ZZ measurements. |
 | QFE | `notebooks/02_QFE_Baseline_MNIST.ipynb` | Quantum Feature Extraction baseline. |
 | CNN | `notebooks/03_CNN_Baseline_MNIST.ipynb` | Lightweight classical convolutional neural network baseline. |
 
