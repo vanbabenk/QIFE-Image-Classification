@@ -127,15 +127,20 @@ Runtime and numerical values may vary slightly across Colab sessions because GPU
 
 ## Citation
 
-If you use this repository, please cite the corresponding manuscript and repository release.
+If you use this repository, please cite the accompanying manuscript:
+
+Mahargya, I. L., Shidik, G. F., Affandy, A., Pujiono, P., Rustad, S., & Dipojono, H. K.  
+**QIFE: A Novel Efficient Quantum Feature Extraction for Convolution Deep Learning based Classification.**  
+Available at SSRN: https://ssrn.com/abstract=6045188  
+DOI: https://doi.org/10.2139/ssrn.6045188
 
 ```bibtex
-@software{mahargya_qife_image_classification,
-  author = {Mahargya, Ifran Lindu},
-  title = {QIFE Image Classification},
-  url = {https://github.com/vanbabenk/QIFE-Image-Classification},
-  version = {1.0.0},
-  year = {2026}
+@article{mahargya2026qife,
+  title   = {QIFE: A Novel Efficient Quantum Feature Extraction for Convolution Deep Learning based Classification},
+  author  = {Mahargya, Ifran Lindu and Shidik, Guruh Fajar and Affandy, Affandy and Pujiono, Pujiono and Rustad, Supriadi and Dipojono, Hermawan Kresno},
+  doi     = {10.2139/ssrn.6045188},
+  url     = {https://ssrn.com/abstract=6045188},
+  note    = {Available at SSRN}
 }
 ```
 
