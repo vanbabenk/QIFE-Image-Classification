@@ -1,11 +1,42 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this repository, please cite the accompanying manuscript below."
 type: software
 title: "QIFE Image Classification"
 version: "1.0.0"
-date-released: "2026-07-27"
 license: "MIT"
+
 authors:
   - family-names: "Mahargya"
     given-names: "Ifran Lindu"
+  - family-names: "Shidik"
+    given-names: "Guruh Fajar"
+  - family-names: "Affandy"
+    given-names: "Affandy"
+  - family-names: "Pujiono"
+    given-names: "Pujiono"
+  - family-names: "Rustad"
+    given-names: "Supriadi"
+  - family-names: "Dipojono"
+    given-names: "Hermawan Kresno"
+
 repository-code: "https://github.com/vanbabenk/QIFE-Image-Classification"
+url: "https://github.com/vanbabenk/QIFE-Image-Classification"
+
+preferred-citation:
+  type: article
+  title: "QIFE: A Novel Efficient Quantum Feature Extraction for Convolution Deep Learning based Classification"
+  authors:
+    - family-names: "Mahargya"
+      given-names: "Ifran Lindu"
+    - family-names: "Shidik"
+      given-names: "Guruh Fajar"
+    - family-names: "Affandy"
+      given-names: "Affandy"
+    - family-names: "Pujiono"
+      given-names: "Pujiono"
+    - family-names: "Rustad"
+      given-names: "Supriadi"
+    - family-names: "Dipojono"
+      given-names: "Hermawan Kresno"
+  doi: "10.2139/ssrn.6045188"
+  url: "https://ssrn.com/abstract=6045188"
